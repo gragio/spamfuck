@@ -1,13 +1,15 @@
 {
-    "name": "giorgio/clear-mail",
-    "require-dev": {
+    "name": "gragio/spamfuck",
+    "description": "Script to remove your email from uglyposture.strem only mail list",
+    "type": "project",
+    "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Giorgio Grasso",
             "email": "giorgiograsso.90@gmail.com"
         }
-    ],
-    "require": {}
+    ]
 }
