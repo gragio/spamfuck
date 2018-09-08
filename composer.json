@@ -1,0 +1,13 @@
+{
+    "name": "giorgio/clear-mail",
+    "require-dev": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "Giorgio Grasso",
+            "email": "giorgiograsso.90@gmail.com"
+        }
+    ],
+    "require": {}
+}
